@@ -30,14 +30,6 @@ I love building **scalable AI systems**, optimizing neural networks, and develop
 
 <div align="center">
 
-### 🏆 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zamax14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamax14&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
-
 ## 📌 What I'm Working On  
 - 🏗️ Building **LLM-powered Retrieval-Augmented Generation (RAG) systems**  
 - 🎥 Developing **computer vision applications** for real-world use cases  
