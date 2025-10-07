@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 I'm a **Machine Learning Engineer** and **Computer Science Engineer** passionate about **Artificial Intelligence, Deep Learning, and Software Development**.  
-I love building **scalable AI systems**, optimizing neural networks, and developing efficient **APIs and cloud-based solutions**.  
+I work on building **scalable AI systems**, optimizing neural networks, and developing efficient **APIs and cloud-based solutions**.  
 
 <div align="center">
 
