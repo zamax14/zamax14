@@ -30,17 +30,6 @@ Currently working at **IIEG — Instituto de Información Estadística y Geográ
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=zamax14&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamax14&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
