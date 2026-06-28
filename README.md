@@ -14,6 +14,8 @@ I build **end-to-end AI systems** — from **data pipelines and machine learning
 
 Currently working at **IIEG — Instituto de Información Estadística y Geográfica de Jalisco**, developing systems that use data and machine learning to support **analysis, automation, and decision-making**.
 
+🌐 **Portfolio:** [zamax14.github.io/Portafolio](https://zamax14.github.io/Portafolio/)
+
 ---
 
 ## ⚡ Tech Stack
@@ -38,6 +40,7 @@ Currently working at **IIEG — Instituto de Información Estadística y Geográ
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Z%C3%A1rate-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexzaratem14)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-087F8C?style=for-the-badge&logo=githubpages&logoColor=white)](https://zamax14.github.io/Portafolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:zarate.alejandroM14@gmail.com)
 
 </div>
