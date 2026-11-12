@@ -5,8 +5,8 @@
 AI Engineer from Guadalajara, Mexico. I build retrieval systems, agents and MCP servers, plus the
 unglamorous parts that keep them alive. Most of it speaks Spanish.
 
-- 🏛️ **[IIEG](https://iieg.gob.mx)**: AI Engineer + Software Dev + Data Engineer + whatever's needed that week
-- 🦎 **[Datzin](https://datzin.com.mx)**: co-founder, aspiring tech communicator, maker of for-fun projects in case one of them turns into something someday (closest emoji to an axolotl, sorry)
+- 🏛️ **[IIEG](https://iieg.jalisco.gob.mx/)**: AI Engineer + Software Dev + Data Engineer + whatever's needed that week
+- 🧪 **[Datzin](https://datzin.com.mx)**: co-founder, aspiring tech communicator, maker of for-fun projects in case one of them turns into something someday
 - 🧩 **Ixti**: AI consultant
 - 🎓 **UdeG**: M.Sc. thesis on Spanish embeddings that help agents pick the right tool
 
@@ -18,7 +18,7 @@ unglamorous parts that keep them alive. Most of it speaks Spanish.
 - 🖥️ **Hardware and homelab**, one of my questionable life decisions.
 - 🐈 **One cat.** He hates me until he decides he doesn't. Real love.
 - 🍳 **Cooking.** Like dev: three hours of work, gone in five minutes.
-- 🧠 **Expert in nothing, I dabble in everything.** We're here to learn.
+- 🧠 **Expert in nothing, working on everything.** We're here to learn.
 
 ### Toolbox
 
@@ -29,13 +29,7 @@ unglamorous parts that keep them alive. Most of it speaks Spanish.
 ![Skills](https://img.shields.io/badge/skills_%26_agents-more_than_features-5B4A7D?style=flat-square&logo=markdown&logoColor=white)
 ![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-with_an_engineering_degree-1C1B19?style=flat-square)
 
-<sub>I don't ask AI for code and hope for the best. I design the system and write the skills, rules and agents, and the harness does the typing. **Architect of what the AI builds.**</sub>
-
-<details>
-<summary><sub><code>$ dmesg | tail</code></sub></summary>
-<br>
 <img src="assets/boot.gif" alt="Boot log listing my stack, ending with: cat.service refuses to cooperate (expected)" width="100%">
-</details>
 
 ## Episodes
 
@@ -56,7 +50,7 @@ unglamorous parts that keep them alive. Most of it speaks Spanish.
     <td width="33%" valign="top">
       <img src="assets/data-agent.webp" alt="Data Agent episode card">
       <br><b>Data Agent</b> <sub><code>private</code></sub>
-      <br><sub>A local-first data analyst built on Deep Agents + Ollama. It handles indicators, hybrid RAG, charts and reports, and asks you before acting. An ASCII axolotl narrates.</sub>
+      <br><sub>A local-first data analyst built on Deep Agents + Ollama. It handles indicators, hybrid RAG, charts and reports, and asks you before acting.</sub>
     </td>
   </tr>
 </table>
