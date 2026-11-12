@@ -2,28 +2,40 @@
 
 ## Hi, I'm Alejandro 👋
 
-AI Engineer from Guadalajara, Mexico. I build retrieval systems, agents and MCP servers, plus
-the less glamorous parts that keep them running: APIs, data pipelines, geospatial databases
-and Linux boxes. Most of what I build speaks Spanish.
+AI Engineer from Guadalajara, Mexico. I build retrieval systems, agents and MCP servers, plus the
+unglamorous parts that keep them alive. Most of it speaks Spanish.
 
-- 🏛️ **AI Developer @ [IIEG](https://iieg.gob.mx)**: GenAI over Jalisco's public data (RAG, agents, MCP servers)
-- 🦎 **Co-founder @ [Datzin](https://datzin.com.mx)**: a software studio with an axolotl mascot (this is the closest emoji, sorry)
-- 🧩 **Consultant @ Ixti**: client systems, automation, geospatial ML
-- 🎓 **M.Sc. @ UdeG**: Spanish embeddings that help agents pick the right tool
+- 🏛️ **[IIEG](https://iieg.gob.mx)**: AI Engineer + Software Dev + Data Engineer + whatever's needed that week
+- 🦎 **[Datzin](https://datzin.com.mx)**: co-founder, aspiring tech communicator, maker of for-fun projects in case one of them turns into something someday (closest emoji to an axolotl, sorry)
+- 🧩 **Ixti**: AI consultant
+- 🎓 **UdeG**: M.Sc. thesis on Spanish embeddings that help agents pick the right tool
 
 ### Things you should know about me
 
-- 🤖 **AI nerd.** I spend more time as a *markdown manager* than as a software engineer. It's the natural evolution of *"spent 10 hours automating a 5-minute task"* into *"spend longer writing skills and agents than writing code, so my AI codes the way I like."*
-- 🟣 **Evangelion fan.** Very. Veeeeery. (Yes, there's a MAGI further down.)
-- 🎮 **Gamer.** Recovered League of Legends player, jungle/top. Quitting is the greatest achievement of my life. These days: Pokémon, The Binding of Isaac, Minecraft, Assassin's Creed, Hollow Knight…
-- 🖥️ **Hardware and homelabbing**, one of my questionable life decisions.
-- 🐈 **One cat.** He hates me, except when he decides he doesn't. That's the real kind of love.
-- 🍳 **I love cooking.** It's like dev: three hours of work for something that's gone in five minutes.
+- 🤖 **AI nerd.** I'm more *markdown manager* than software engineer now. It's the natural evolution of *"10 hours automating a 5-minute task"* into *"more time writing skills and agents than code, so my AI codes the way I like."*
+- 🟣 **Evangelion fan.** Very. Veeeeery. (There's a MAGI further down.)
+- 🎮 **Gamer.** Recovered League player, jungle/top. Quitting was the greatest achievement of my life. Now: Pokémon, Binding of Isaac, Minecraft, Assassin's Creed, Hollow Knight.
+- 🖥️ **Hardware and homelab**, one of my questionable life decisions.
+- 🐈 **One cat.** He hates me until he decides he doesn't. Real love.
+- 🍳 **Cooking.** Like dev: three hours of work, gone in five minutes.
 - 🧠 **Expert in nothing, I dabble in everything.** We're here to learn.
 
-### What runs on me
+### Toolbox
 
-<img src="assets/boot.gif" alt="Boot log listing my stack: Python, FastAPI, PostgreSQL, PostGIS, pgvector, DuckDB, LangChain, LangGraph, Deep Agents, FastMCP, sentence-transformers, FAISS, PyTorch, Airflow, Docker, Linux, AWS, GCP, Terraform, React, TypeScript, Claude Code, Codex" width="100%">
+[![stack](https://skillicons.dev/icons?i=python,fastapi,postgres,docker,linux,pytorch,aws,gcp,terraform,githubactions,nginx,react,ts&perline=13)](https://zamax14.github.io/Portafolio/)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-main_harness-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-second_opinion-10A37F?style=flat-square&logo=gnometerminal&logoColor=white)
+![Skills](https://img.shields.io/badge/skills_%26_agents-more_than_features-5B4A7D?style=flat-square&logo=markdown&logoColor=white)
+![Vibe Coder](https://img.shields.io/badge/Vibe_Coder-with_an_engineering_degree-1C1B19?style=flat-square)
+
+<sub>I don't ask AI for code and hope for the best. I design the system and write the skills, rules and agents, and the harness does the typing. **Architect of what the AI builds.**</sub>
+
+<details>
+<summary><sub><code>$ dmesg | tail</code></sub></summary>
+<br>
+<img src="assets/boot.gif" alt="Boot log listing my stack, ending with: cat.service refuses to cooperate (expected)" width="100%">
+</details>
 
 ## Episodes
 
@@ -34,17 +46,17 @@ and Linux boxes. Most of what I build speaks Spanish.
     <td width="33%" valign="top">
       <a href="https://github.com/zamax14/claude-decide"><img src="assets/laya.webp" alt="claude-decide token benchmark"></a>
       <br><b><a href="https://github.com/zamax14/claude-decide">Laya / claude-decide</a></b>
-      <br><sub>A 322M local model picks which skills and MCP tools Claude Code needs for each request. −39% tokens and −37% cost on Opus. <a href="https://huggingface.co/Zamax14/laya-context-prefilter">🤗 model</a></sub>
+      <br><sub>A 322M local model picks which skills and tools Claude Code needs. −39% tokens on Opus. <a href="https://huggingface.co/Zamax14/laya-context-prefilter">🤗</a></sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/zamax14/MAGI-Agent"><img src="assets/magi.webp" alt="MAGI deliberation console"></a>
       <br><b><a href="https://github.com/zamax14/MAGI-Agent">MAGI</a></b>
-      <br><sub>Three Claude agents (a dev, a blind tester and a docs reviewer) deliberate on your branch before a human does. Told you.</sub>
+      <br><sub>Three Claude agents (dev, blind tester, docs) vote on your branch before a human does. Told you.</sub>
     </td>
     <td width="33%" valign="top">
       <img src="assets/data-agent.webp" alt="Data Agent episode card">
       <br><b>Data Agent</b> <sub><code>private</code></sub>
-      <br><sub>Local-first data analyst on Deep Agents + Ollama: predefined indicators (no free-form SQL), hybrid RAG with BM25 and embeddings, Plotly charts, report templates and human approvals. An ASCII axolotl shows you what it's doing.</sub>
+      <br><sub>A local-first data analyst built on Deep Agents + Ollama. It handles indicators, hybrid RAG, charts and reports, and asks you before acting. An ASCII axolotl narrates.</sub>
     </td>
   </tr>
 </table>
@@ -53,18 +65,13 @@ and Linux boxes. Most of what I build speaks Spanish.
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <img src="assets/thesis.webp" alt="Retrieval metrics heatmap by embedding model">
+    <td width="40%" valign="top">
+      <img src="assets/thesis.webp" alt="Tool selection MRR@5: proposed model 0.87 vs 0.44 for the best existing model">
     </td>
     <td valign="top">
       <b>Spanish embeddings for agentic tool selection</b> <sub><code>M.Sc. thesis · private</code></sub>
-      <br><sub>If an agent retrieves the right context and the right tool, it needs fewer tokens to get the job done. The pipeline:</sub>
-      <br><sub>
-        1. <a href="https://github.com/zamax14/SyntheticDataLLM">SyntheticDataLLM</a> turns documents into Spanish Q&amp;A with local models<br>
-        2. Fine-tune BETO and E5 with MNRL, cosine and triplet losses<br>
-        3. Evaluate context retrieval over 3,530 chunks and tool retrieval among a ReAct agent's 24 BI tools plus distractors (FAISS vs BM25, Hit@K, MRR, nDCG), on a DGX A100 via SLURM
-      </sub>
-      <br><sub>Laya (above) started as the practical side of the same question.</sub>
+      <br><sub>My fine-tuned Spanish embedding model picks the right tool out of 213 (24 real, 189 decoys) with <b>MRR@5 0.87</b>. The best off-the-shelf model gets 0.44, and BM25 gets 0.36.</sub>
+      <br><sub>Pipeline: <a href="https://github.com/zamax14/SyntheticDataLLM">SyntheticDataLLM</a> (Spanish Q&amp;A from documents) → fine-tuning E5/BETO → retrieval and tool-selection benchmarks on a DGX A100.</sub>
     </td>
   </tr>
 </table>
@@ -76,17 +83,17 @@ and Linux boxes. Most of what I build speaks Spanish.
     <td width="33%" valign="top">
       <a href="https://github.com/DatzinDev/Atlas"><img src="assets/atlas.webp" alt="Atlas geoportal design"></a>
       <br><b><a href="https://github.com/DatzinDev/Atlas">Atlas</a></b>
-      <br><sub>PostGIS layers as WMS, WFS and vector tiles from inside FastAPI. No GeoServer. Powers <a href="https://densimap.datzin.com.mx">DensiMap</a>.</sub>
+      <br><sub>Serves PostGIS layers as WMS, WFS and vector tiles from FastAPI, with no GeoServer. Powers <a href="https://densimap.datzin.com.mx">DensiMap</a>.</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/DatzinDev/VizControl"><img src="assets/vizcontrol.webp" alt="VizControl replay"></a>
       <br><b><a href="https://github.com/DatzinDev/VizControl">VizControl</a></b>
-      <br><sub>Record a Python run, then replay it in the browser step by step, like a debugger after the fact.</sub>
+      <br><sub>Records a Python run so you can replay it in the browser, like a debugger after the fact.</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/DatzinDev/EIC-API-MCP"><img src="assets/eic.webp" alt="EIC intercensal survey service"></a>
       <br><b><a href="https://github.com/DatzinDev/EIC-API-MCP">EIC-API-MCP</a></b>
-      <br><sub>INEGI's intercensal survey behind DuckDB, FastAPI and FastMCP, so any AI assistant can query it. <a href="https://eic.datzin.com.mx">Live</a>.</sub>
+      <br><sub>Mexico's intercensal survey, served with DuckDB, FastAPI and MCP so any AI assistant can query it. <a href="https://eic.datzin.com.mx">Live</a>.</sub>
     </td>
   </tr>
 </table>
@@ -98,16 +105,16 @@ and Linux boxes. Most of what I build speaks Spanish.
     <td width="33%" valign="top">
       <a href="https://github.com/iieg-oficial/minerva"><img src="assets/minerva.webp" alt="Minerva identity provider"></a>
       <br><b><a href="https://github.com/iieg-oficial/minerva">Minerva</a></b>
-      <br><sub>OAuth2/OIDC identity provider for a whole state institute: PKCE, JWKS key rotation and a FastAPI SDK, so no system re-implements login again.</sub>
+      <br><sub>OAuth2/OIDC identity provider for a whole institute. With it, nobody has to build login again.</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/iieg-oficial/Indicadores_SIEEJ"><img src="assets/indicadores.webp" alt="Indicadores episode card"></a>
       <br><b><a href="https://github.com/iieg-oficial/Indicadores_SIEEJ">Indicadores SIEEJ</a></b>
-      <br><sub>Official statistics as an MCP server and REST API. One YAML per indicator and one output contract across 33 databases, so agents never make up a number.</sub>
+      <br><sub>Official statistics served as an MCP server, so agents quote real numbers and never invent them.</sub>
     </td>
     <td width="33%" valign="top">
       <br><b>…and more</b>
-      <br><sub>Corkbit (Kanban + thermal printer + MCP), airflow-mcp, ETL pipelines, road-sign detection, talks and workshops. They all live in my <a href="https://zamax14.github.io/Portafolio/">portfolio</a>.</sub>
+      <br><sub>Corkbit, airflow-mcp, ETL pipelines, road-sign detection, talks and workshops, all in my <a href="https://zamax14.github.io/Portafolio/">portfolio</a>.</sub>
     </td>
   </tr>
 </table>
@@ -122,4 +129,4 @@ and Linux boxes. Most of what I build speaks Spanish.
   <a href="mailto:zarate.alejandroM14@gmail.com">Email</a>
 </p>
 
-<img src="assets/footer.gif" alt="God's in his heaven. All's right with the world. — prod is green, the cat is (mostly) fine. To be continued." width="100%">
+<img src="assets/footer.gif" alt="CI's in its heaven. All's green in prod. — build passing, 0 incidents, the cat is (mostly) fine. To be continued." width="100%">
